@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">A passionate Software Tester from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderhimanshu2775&label=Profile%20views&color=0e75b6&style=flat" alt="coderhimanshu2775" /> </p>
+</p>
 
 - 🔭 I’m currently working on [Society Management System](https://stellular-crumble-4f940e.netlify.app)
 
